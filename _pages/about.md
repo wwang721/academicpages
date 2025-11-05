@@ -8,3 +8,6 @@ redirect_from:
 ---
 
 Hello! I'm Wei Wang (汪巍), an PhD student in Physics at Johns Hopkins University.
+
+Example: editing a Markdown file for a talk
+![Editing a Markdown file for a talk](/images/editing-talk.png)
