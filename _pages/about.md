@@ -30,7 +30,7 @@ What controls whether cells - or clusters of cells - break off from an invading 
 <b style="font-size:18px;">Confinement, Jamming, and Adhesion in Cancer Cells Dissociating from a Collectively Invading Strand</b>
 </p>
 
-**W. Wang**, R. A. Law, E. P. Ipiña, K. Konstantopoulos, and B. A. Camley<br>
+**W. Wang**, R. A. Law, E. P. Ipiña, K. Konstantopoulos, and B. A. Camley<sup>✉</sup><br>
 [PRX Life **3**, 013012 (2025)](https://doi.org/10.1103/PRXLife.3.013012)
 <div style="clear:both; margin-bottom:30px"></div>
 
@@ -39,7 +39,7 @@ What controls whether cells - or clusters of cells - break off from an invading 
 <b style="font-size:18px;">Controlling tissue size by active fracture</b>
 </p>
 
-**W. Wang** and B. A. Camley<br>
+**W. Wang** and B. A. Camley<sup>✉</sup><br>
 [arXiv:2503.03126
 [physics.bio-ph] (2025)](https://doi.org/10.48550/arXiv.2503.03126)
 <div style="clear:both; margin-bottom:40px"></div>
@@ -49,6 +49,7 @@ What controls whether cells - or clusters of cells - break off from an invading 
 
 <p style="margin-top:-10px">
 <span style="color:gray; font-size:17px;">
+<span style="color:red;margin-right:10px">■</span> 
 How precisely can a cell detect when it runs into another cell? This question is fundamental for understanding how single cells coordinate navigation and decision-making, with implications for immune surveillance and cancer invasion.
 </span>
 </p>
@@ -58,7 +59,7 @@ How precisely can a cell detect when it runs into another cell? This question is
 <b style="font-size:18px;">Limits on the accuracy of contact inhibition of locomotion</b>
 </p>
 
-**W. Wang** and B. A. Camley<br>
+**W. Wang** and B. A. Camley<sup>✉</sup><br>
 [Phys.
 Rev. E **109**, 054408 (2024)](https://doi.org/10.1103/PhysRevE.109.054408)
 <div style="clear:both; margin-bottom:30px"></div>
