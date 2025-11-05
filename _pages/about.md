@@ -7,33 +7,58 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m Wei Wang (汪巍), currently a PhD student in Physics at Johns Hopkins University. My main research interest lies at the interface between physics and living systems.
+Hello! I’m Wei Wang (汪巍), currently a Ph.D. student in Physics at Johns Hopkins University. My main research interest lies at the interface between physics and living systems.
 
 Education
-======
+------
 * Ph.D. in Physics, Johns Hopkins University, 2020--2026 (expected)
     - Advisor: [Brian A. Camley](https://physics-astronomy.jhu.edu/directory/brian-camley)
 * B.S. in Physics, Tongji University (同济大学), 2016--2020
 
-Publications
-======
-- V. Srinivasan[^1], **W. Wang**, and B. A. Camley, *Perfect adaptation in eukaryotic gradient sensing using cooperative allosteric binding* (2025), [arXiv:2509.00219 [q-bio.CB]](https://doi.org/10.48550/arXiv.2509.00219).
+Selected Publications
+------
+<b style="font-size:20px">▶ Ruptures and tissue size control</b>
 
-- **W. Wang** and B. A. Camley, *Controlling tissue size by active fracture* (2025), [arXiv:2503.03126
-[physics.bio-ph]](https://doi.org/10.48550/arXiv.2503.03126).
+<p style="margin-top:-10px">
+<span style="color:gray; font-size:17px;">
+What controls whether cells - or clusters of cells - break off from an invading cancerous front? We use a phase field model exploring how confinement, adhesion, and chemotaxis drive cell dissociation that can lead to metastasis - capturing behavior observed in experiments with microfluidic channels.
+</span>
+</p>
 
-- **W. Wang**, R. A. Law, E. P. Ipiña, K. Konstantopoulos, and B. A. Camley, *Confinement, Jam-
-ming, and Adhesion in Cancer Cells Dissociating from a Collectively Invading Strand*, [PRX
-Life **3**, 013012 (2025)](https://doi.org/10.1103/PRXLife.3.013012).
+<img src="images/confinement2025wang.png" alt="n/a" width="180" style="float:left; margin-right:17px;">
+<p style="margin-top:38px; margin-bottom:15px">
+<b style="font-size:18px;">Confinement, Jamming, and Adhesion in Cancer Cells Dissociating from a Collectively Invading Strand</b>
+</p>
 
-- A. Kashyap, **W. Wang**, and B. A. Camley, *Trade-offs in concentration sensing in dynamic
-environments*, [Biophysical Journal **123**,1184(2024)](https://doi.org/10.1016/j.bpj.2024.03.025).
+**W. Wang**, R. A. Law, E. P. Ipiña, K. Konstantopoulos, and B. A. Camley<br>
+[PRX Life **3**, 013012 (2025)](https://doi.org/10.1103/PRXLife.3.013012)
+<div style="clear:both; margin-bottom:30px"></div>
 
-- **W. Wang** and B. A. Camley, *Limits on the accuracy of contact inhibition of locomotion*, [Phys.
-Rev. E **109**, 054408 (2024)](https://doi.org/10.1103/PhysRevE.109.054408).
+<img src="images/controlling2025wang.png" alt="n/a" width="180" style="float:left; margin-right:17px;">
+<p style="margin-top:32px; margin-bottom:15px">
+<b style="font-size:18px;">Controlling tissue size by active fracture</b>
+</p>
 
-- T. Liu, **W. Wang**, and J. Zhang, *Collective induced antidiffusion effect and general magnon
-Boltzmann transport theory*, [Phys. Rev. B **99**, 214407 (2019)](https://doi.org/10.1103/PhysRevB.99.214407).
+**W. Wang** and B. A. Camley<br>
+[arXiv:2503.03126
+[physics.bio-ph] (2025)](https://doi.org/10.48550/arXiv.2503.03126)
+<div style="clear:both; margin-bottom:40px"></div>
 
+---
+<b style="font-size:20px">▶ Cell sensing under noise<b>
 
-[^1]: JHU undergraduate trainee.
+<p style="margin-top:-10px">
+<span style="color:gray; font-size:17px;">
+How precisely can a cell detect when it runs into another cell? This question is fundamental for understanding how single cells coordinate navigation and decision-making, with implications for immune surveillance and cancer invasion.
+</span>
+</p>
+
+<img src="images/limits2024wang.png" alt="n/a" width="180" style="float:left; margin-right:17px;">
+<p style="margin-top:30px; margin-bottom:15px">
+<b style="font-size:18px;">Limits on the accuracy of contact inhibition of locomotion</b>
+</p>
+
+**W. Wang** and B. A. Camley<br>
+[Phys.
+Rev. E **109**, 054408 (2024)](https://doi.org/10.1103/PhysRevE.109.054408)
+<div style="clear:both; margin-bottom:30px"></div>
