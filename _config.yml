@@ -11,11 +11,11 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Wei Wang"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-# url                      : https://wwang721.github.io/academicpages # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Wei (巍) Wang (汪)"
+description              : &description "Wei Wang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://wwang721.github.io/academicpages # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "/academicpages" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -34,7 +34,7 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : "https://arxiv.org/a/wang_w_12.html" # URL - Update with the correct link to your profile
+  arxiv            : # "https://arxiv.org/a/wang_w_12.html" # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=zvd30L4AAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
@@ -42,7 +42,7 @@ author:
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Wei-Wang-436"
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57672105300" # URL
+  scopus           : # "https://www.scopus.com/authid/detail.uri?authorId=57672105300" # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
