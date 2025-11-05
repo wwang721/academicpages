@@ -17,7 +17,7 @@ Education
 
 Selected Publications
 ------
-<b style="font-size:20px">▶ Ruptures and tissue size control</b>
+▶ <b style="font-size:18px; margin-left:5px">Ruptures and tissue size control</b>
 
 <p style="margin-top:-10px">
 <span style="color:gray; font-size:17px;">
@@ -25,41 +25,50 @@ What controls whether cells - or clusters of cells - break off from an invading 
 </span>
 </p>
 
-<img src="images/confinement2025wang.png" alt="n/a" width="180" style="float:left; margin-right:17px;">
-<p style="margin-top:38px; margin-bottom:15px">
-<b style="font-size:18px;">Confinement, Jamming, and Adhesion in Cancer Cells Dissociating from a Collectively Invading Strand</b>
-</p>
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+  <img src="images/confinement2025wang.png" style="width:180px; margin-right:20px;">
+  <div>
+    <p style="margin-top:10px; margin-bottom:10px">
+    <b style="font-size:17px;">Confinement, Jamming, and Adhesion in Cancer Cells Dissociating from a Collectively Invading Strand</b>
+    </p>
+    <span style="font-size:17px;">
+    <b>W. Wang</b>, R. A. Law, E. P. Ipiña, K. Konstantopoulos, and B. A. Camley<sup>✉</sup><br>
+    <a href="https://doi.org/10.1103/PRXLife.3.013012">PRX Life <b>3</b>, 013012 (2025)</a>
+    </span>
+  </div>
+</div>
 
-**W. Wang**, R. A. Law, E. P. Ipiña, K. Konstantopoulos, and B. A. Camley<sup>✉</sup><br>
-[PRX Life **3**, 013012 (2025)](https://doi.org/10.1103/PRXLife.3.013012)
-<div style="clear:both; margin-bottom:30px"></div>
-
-<img src="images/controlling2025wang.png" alt="n/a" width="180" style="float:left; margin-right:17px;">
-<p style="margin-top:32px; margin-bottom:15px">
-<b style="font-size:18px;">Controlling tissue size by active fracture</b>
-</p>
-
-**W. Wang** and B. A. Camley<sup>✉</sup><br>
-[arXiv:2503.03126
-[physics.bio-ph] (2025)](https://doi.org/10.48550/arXiv.2503.03126)
-<div style="clear:both; margin-bottom:40px"></div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+  <img src="images/controlling2025wang.png" style="width:180px; margin-right:20px;">
+  <div>
+    <p style="margin-top:0px; margin-bottom:10px">
+    <b style="font-size:17px;">Controlling tissue size by active fracture</b>
+    </p>
+    <span style="font-size:17px;">
+    <b>W. Wang</b> and B. A. Camley<sup>✉</sup><br>
+    <a href="https://doi.org/10.48550/arXiv.2503.03126">arXiv:2503.03126 [physics.bio-ph] (2025)</a>
+    </span>
+  </div>
+</div>
 
 ---
-<b style="font-size:20px">▶ Cell sensing under noise<b>
+▶ <b style="font-size:18px; margin-left:5px">Cell sensing under noise<b>
 
 <p style="margin-top:-10px">
 <span style="color:gray; font-size:17px;">
-<span style="color:red;margin-right:10px">■</span> 
 How precisely can a cell detect when it runs into another cell? This question is fundamental for understanding how single cells coordinate navigation and decision-making, with implications for immune surveillance and cancer invasion.
 </span>
 </p>
 
-<img src="images/limits2024wang.png" alt="n/a" width="180" style="float:left; margin-right:17px;">
-<p style="margin-top:30px; margin-bottom:15px">
-<b style="font-size:18px;">Limits on the accuracy of contact inhibition of locomotion</b>
-</p>
-
-**W. Wang** and B. A. Camley<sup>✉</sup><br>
-[Phys.
-Rev. E **109**, 054408 (2024)](https://doi.org/10.1103/PhysRevE.109.054408)
-<div style="clear:both; margin-bottom:30px"></div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+  <img src="images/limits2024wang.png" style="width:180px; margin-right:20px;">
+  <div>
+    <p style="margin-top:5px; margin-bottom:10px">
+    <b style="font-size:17px;">Limits on the accuracy of contact inhibition of locomotion</b>
+    </p>
+    <span style="font-size:17px;">
+    <b>W. Wang</b> and B. A. Camley<sup>✉</sup><br>
+    <a href="https://doi.org/10.1103/PhysRevE.109.054408">Phys. Rev. E <b>109</b>, 054408 (2024)</a>
+    </span>
+  </div>
+</div>
