@@ -11,9 +11,9 @@ Hello! I’m Wei Wang (汪巍), currently a Ph.D. student in Physics at Johns Ho
 
 Education
 ------
-* Ph.D. in Physics, Johns Hopkins University, 2020--2026 (expected)
-    - Advisor: [Brian A. Camley](https://physics-astronomy.jhu.edu/directory/brian-camley)
-* B.S. in Physics, Tongji University (同济大学), 2016--2020
+* Ph.D. in Physics, Johns Hopkins University<span style="float:right;">2020--2026</span>
+    - Advisor: Brian A. Camley
+* B.S. in Physics, Tongji University (同济大学)<span style="float:right;">2016--2020</span>
 
 Selected Publications
 ------
