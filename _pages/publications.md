@@ -8,7 +8,7 @@ author_profile: true
 {% if site.author.googlescholar %}
   <div class="wordwrap" style="margin-bottom:10px">
   <span style="font-size:15px">\(\color{red}\blacksquare~\)</span> You can also find my complete list of publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.<br>
-  <span style="font-size:15px; color:gray; margin-left:5px; margin-top:10px"><sup>✉</sup> indicates corresponding authors.</span>
+  <span style="font-size:15px; color:gray; margin-left:5px; margin-top:20px"><sup>✉</sup> indicates corresponding authors.</span>
   </div>
 {% endif %}
 
