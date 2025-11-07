@@ -8,7 +8,7 @@ author_profile: true
 {% if site.author.googlescholar %}
   <div class="wordwrap" style="margin-bottom:10px">
   <span style="font-size:15px">\(\color{red}\blacksquare~\)</span> You can also find my complete list of publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.<br>
-  <span style="font-size:15px; color:gray; margin-left:5px;"><sup>✉</sup> indicates corresponding authors.</span>
+  <span style="font-size:15px; color:gray; margin-left:5px; margin-top:10px"><sup>✉</sup> indicates corresponding authors.</span>
   </div>
 {% endif %}
 
@@ -20,7 +20,7 @@ author_profile: true
 - **W. Wang**, R. A. Law, E. P. Ipiña, K. Konstantopoulos, and B. A. Camley<sup>✉</sup>, *Confinement, Jamming, and Adhesion in Cancer Cells Dissociating from a Collectively Invading Strand*, [<span style="white-space: nowrap;">PRX Life</span> **3**, 013012 (2025)](https://doi.org/10.1103/PRXLife.3.013012).
 
 - A. Kashyap, **W. Wang**, and B. A. Camley<sup>✉</sup>, *Trade-offs in concentration sensing in dynamic
-environments*, [Biophysical Journal **123**,1184(2024)](https://doi.org/10.1016/j.bpj.2024.03.025).
+environments*, [Biophysical Journal **123**, 1184 (2024)](https://doi.org/10.1016/j.bpj.2024.03.025).
 
 - **W. Wang** and B. A. Camley<sup>✉</sup>, *Limits on the accuracy of contact inhibition of locomotion*, [Phys.
 Rev. E **109**, 054408 (2024)](https://doi.org/10.1103/PhysRevE.109.054408).
