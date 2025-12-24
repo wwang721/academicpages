@@ -39,7 +39,7 @@ author:
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-0053-1069"
-  semantic         : # URL
+  semantic         : "https://www.semanticscholar.org/author/Wei-Wang/2256611650" # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Wei-Wang-436"
   scopus           : # "https://www.scopus.com/authid/detail.uri?authorId=57672105300" # URL
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # "wwang721" # Username
   lastfm           : # Username
-  linkedin         : "wei-wang-6410ba224" # Username
+  linkedin         : # "wei-wang-6410ba224" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
