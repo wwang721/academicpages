@@ -93,9 +93,6 @@
       {% if author.artstation %}
         <li><a href="https://www.artstation.com/{{ author.artstation }}"><i class="fab fa-fw fa-artstation icon-pad-right" aria-hidden="true"></i>Artstation</a></li>
       {% endif %}        
-      {% if author.bluesky %}
-        <li><a href="https://bsky.app/profile/{{ author.bluesky }}"><i class="fab fa-fw fa-bluesky icon-pad-right" aria-hidden="true"></i>Bluesky</a></li>
-      {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-f icon-pad-right" aria-hidden="true"></i>Facebook</a></li>
       {% endif %}
@@ -135,8 +132,14 @@
       {% if author.soundcloud %}
         <li><a href="https://soundcloud.com/{{ author.soundcloud }}"><i class="fab fa-fw fa-soundcloud icon-pad-right" aria-hidden="true"></i>Soundcloud</a></li>
       {% endif %}      
+      {% if author.bluesky %}
+        <li><a href="https://bsky.app/profile/{{ author.bluesky }}"><i class="fab fa-fw fa-bluesky icon-pad-right" aria-hidden="true"></i>Bluesky</a></li>
+      {% endif %}
+      {% if author.twitter %}
+        <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-x-twitter icon-pad-right" aria-hidden="true"></i>X (Twitter)</a></li>
+      {% endif %}
       {% if author.steam %}
-        <li><a href="https://steamcommunity.com/id/{{ author.steam }}"><i class="fab fa-fw fa-steam icon-pad-right" aria-hidden="true"></i>Steam</a></li>
+        <li><a href="https://steamcommunity.com/profiles/{{ author.steam }}"><i class="fab fa-fw fa-steam icon-pad-right" aria-hidden="true"></i>Steam</a></li>
       {% endif %}
       {% if author.telegram %}
         <li><a href="{{ author.telegram }}"><i class="fab fa-fw fa-telegram icon-pad-right" aria-hidden="true"></i>Telegram</a></li>
@@ -144,9 +147,6 @@
       {% if author.tumblr %}
         <li><a href="https://{{ author.tumblr }}.tumblr.com"><i class="fab fa-fw fa-tumblr icon-pad-right" aria-hidden="true"></i>Tumblr</a></li>
       {% endif %}      
-      {% if author.twitter %}
-        <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-x-twitter icon-pad-right" aria-hidden="true"></i>X (Twitter)</a></li>
-      {% endif %}
       {% if author.vine %}
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fab fa-fw fa-vine icon-pad-right" aria-hidden="true"></i>Vine</a></li>
       {% endif %}        

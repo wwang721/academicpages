@@ -34,7 +34,7 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : # "https://arxiv.org/a/wang_w_12.html" # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/a/wang_w_12.html" # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=zvd30L4AAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
@@ -68,7 +68,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : # Username
+  steam            : "76561198351736722" # Username
   telegram         : # URL
   tumblr           : # Username
   twitter          : "wwang721"
