@@ -51,6 +51,19 @@ What controls whether cells - or clusters of cells - break off from an invading 
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+  <img src="images/voronoi2026wang.png" style="width:180px; margin-right:20px;">
+  <div>
+    <p style="margin-top:2px; margin-bottom:10px">
+    <b style="font-size:17px;">Divergence of detachment forces in the finite-Voronoi model</b>
+    </p>
+    <span style="font-size:17px;">
+    <b>W. Wang</b> and B. A. Camley<sup>✉</sup><br>
+    <a href="/404">Manuscript in preparation (2026)</a>
+    </span>
+  </div>
+</div>
+
 ---
 ▶ <b style="font-size:18px; margin-left:5px">Cell sensing under noise<b>
 
