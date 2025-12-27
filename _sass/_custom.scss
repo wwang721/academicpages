@@ -1,0 +1,39 @@
+/* Fix cramped sidebar/main gap around ~1280px wide viewports (common on Windows 150% scaling) */
+$my-gutter: 0.3rem;
+
+@media (min-width: 1200px) and (max-width: 1400px) {
+
+    /* Add breathing room between sidebar and content */
+    .sidebar {
+        padding-right: $my-gutter;
+        /* increases gutter without changing sidebar width */
+    }
+
+    .archive,
+    .page__content,
+    .page__inner-wrap {
+        padding-left: $my-gutter;
+        /* ensures the main column also respects the gutter */
+    }
+
+    /* specifically cover the title/header area */
+    .page__title,
+    .page__header {
+        padding-left: $my-gutter;
+    }
+}
+
+
+/* Hide sidebar scrollbar but keep scroll functionality */
+.sidebar {
+    overflow-y: auto;
+    -ms-overflow-style: none;
+    /* IE / old Edge */
+    scrollbar-width: none;
+    /* Firefox */
+}
+
+.sidebar::-webkit-scrollbar {
+    display: none;
+    /* Chrome, Edge, Safari */
+}
