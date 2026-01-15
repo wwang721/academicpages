@@ -12,6 +12,7 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Source+Code+Pro:wght@400;600&display=swap"
         rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
         :root {
             color-scheme: dark;
@@ -65,6 +66,8 @@
             justify-content: space-between;
             align-items: center;
             padding: 28px 7vw;
+            position: relative;
+            z-index: 2;
         }
 
         .logo {
@@ -111,6 +114,7 @@
             filter: blur(10px);
             opacity: 0.35;
             z-index: 0;
+            pointer-events: none;
         }
 
         .hero::before {
@@ -413,9 +417,9 @@
         <nav class="nav">
             <div class="logo">PyAFV</div>
             <div class="nav-links">
-                <a href="https://github.com/wwang721/pyafv">Repository</a>
+                <a href="https://github.com/wwang721/pyafv"><i class="fa-brands fa-github"></i> Repository</a>
                 <a href="https://pyafv.readthedocs.io">Documentation</a>
-                <a href="https://pypi.org/project/pyafv/">PyPI</a>
+                <!-- <a href="https://pypi.org/project/pyafv/">PyPI</a>  -->
             </div>
         </nav>
 
@@ -429,8 +433,8 @@
                     mechanics, and exploring collective motility under active dynamics.
                 </p>
                 <div class="hero-actions">
-                    <a class="btn primary" href="https://github.com/wwang721/pyafv">Explore the Repo</a>
-                    <a class="btn" href="https://pyafv.readthedocs.io">Read the Docs</a>
+                    <!-- <a class="btn primary" href="https://github.com/wwang721/pyafv">Explore the Repo</a> -->
+                    <a class="btn primary" href="https://pyafv.readthedocs.io">Read the Docs</a>
                     <a class="btn" href="https://pypi.org/project/pyafv/">Install from PyPI</a>
                     <a class="btn" href="javascript:void(0)" onclick="document.getElementById('cite-section').scrollIntoView({behavior: 'smooth'});">Cite PyAFV</a>
                 </div>
@@ -539,14 +543,14 @@
                 <p style="margin-top: 1.2em;">
                     If you use PyAFV in your research, please cite it.&ensp;
                     A paper associated with PyAFV has been posted to arXiv
-                    [<a href="https://doi.org/10.1039/D3SM00327B">1</a>]:
+                    [<a href="https://arxiv.org/abs/2503.03126">1</a>]:
                 </p>
                 <br />
-                <p style="display: flex; gap: 10px; margin: 0 0 1em 0;">
+                <p style="display: flex; gap: 10px; margin: 0 0 1em 0.5em;">
                     <span style="flex-shrink: 0;">[1]</span>
                     <span>
                         W. Wang and B. A. Camley, <em>Divergence of detachment forces in the finite-Voronoi
-                            model</em>, <a href="https://arxiv.org/abs/2307.13711">arXiv:2307.13711 (2026)</a>.
+                            model</em>, <a href="https://arxiv.org/abs/2503.03126">arXiv:2503.03126 (2025)</a>.
                     </span>
                 </p>
             </div>
