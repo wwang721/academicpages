@@ -24,16 +24,18 @@ $my-gutter: 0.3rem;
 }
 
 
-/* Hide sidebar scrollbar but keep scroll functionality */
-.sidebar {
-    overflow-y: auto;
-    -ms-overflow-style: none;
-    /* IE / old Edge */
-    scrollbar-width: none;
-    /* Firefox */
-}
+/* Hide sidebar scrollbar but keep scroll functionality (desktop only) */
+@media screen and (min-width: 1024px) {
+    .sidebar {
+        overflow-y: auto;
+        -ms-overflow-style: none;
+        /* IE / old Edge */
+        scrollbar-width: none;
+        /* Firefox */
+    }
 
-.sidebar::-webkit-scrollbar {
-    display: none;
-    /* Chrome, Edge, Safari */
+    .sidebar::-webkit-scrollbar {
+        display: none;
+        /* Chrome, Edge, Safari */
+    }
 }
