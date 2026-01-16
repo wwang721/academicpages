@@ -425,9 +425,15 @@
 
         <section class="hero">
             <div class="hero-content">
-                <div class="pill">Active Finite Voronoi</div>
+                <div class="pill" style="margin-bottom: 5px;">Active Finite Voronoi</div>
                 <h1>Build living tissue simulations with the Active-Finite-Voronoi model.</h1>
                 <p>
+                    Latest <a href="https://github.com/wwang721/pyafv/releases/latest"><strong style="color: var(--accent);">v</strong><strong
+                            data-pypi-version style="color: var(--accent);">loading…</strong></a>
+                        <span aria-hidden="true">&nbsp;·&nbsp;</span>
+                        <span data-pypi-date>loading…</span>
+                </p>
+                <p style="margin-top: -10px;">
                     PyAFV is a simple Python toolkit for generating 2D finite-Voronoi tessellations, modeling
                     cell
                     mechanics, and exploring collective motility under active dynamics.
@@ -443,9 +449,7 @@
                 <img src="images/pyafv/model_illustration.png" alt="Active finite Voronoi model illustration" />
                 <h3>Geometric insight, physical fidelity</h3>
                 <p>
-                    Compute areas, perimeters, vertices, edges, and conservative forces while visualizing emergent tissue structure
-                    in
-                    real time.
+                    Compute areas, perimeters, vertices, edges, and conservative forces while visualizing emergent tissue structure in real time.
                 </p>
             </div>
             <div class="floating-orb" aria-hidden="true"></div>
@@ -589,7 +593,7 @@
             <strong>PyAFV</strong> · Active-Finite-Voronoi Model in 2D
         </div>
         <div>
-            Version <span id="pypi-version">loading…</span> · MIT License · © <span id="copyright-year"></span> <a href="https://wwang721.github.io/academicpages">Wei Wang</a>
+            Version <span data-pypi-version>loading…</span> · MIT License · © <span id="copyright-year"></span> <a href="https://wwang721.github.io/academicpages">Wei Wang</a>
         </div>
         <div class="footer-links">
             <a href="https://github.com/wwang721/pyafv">GitHub</a>
@@ -635,13 +639,29 @@
             copyright.textContent = year;
         }
 
-        const versionTarget = document.getElementById("pypi-version");
-        if (versionTarget) {
+        const versionTargets = document.querySelectorAll("[data-pypi-version]");
+        const dateTargets = document.querySelectorAll("[data-pypi-date]");
+        if (versionTargets.length || dateTargets.length) {
             fetch("https://pypi.org/pypi/pyafv/json")
                 .then((response) => response.json())
                 .then((data) => {
                     const version = data.info && data.info.version ? data.info.version : "unknown";
-                    versionTarget.textContent = version;
+                    const releases = data.releases && data.releases[version] ? data.releases[version] : [];
+                    const latestRelease = releases.length ? releases[0] : null;
+                    const releaseDate = latestRelease && latestRelease.upload_time_iso_8601
+                        ? new Date(latestRelease.upload_time_iso_8601).toLocaleDateString(undefined, {
+                            year: "numeric",
+                            month: "short",
+                            day: "numeric"
+                        })
+                        : "date unavailable";
+
+                    versionTargets.forEach((target) => {
+                        target.textContent = version;
+                    });
+                    dateTargets.forEach((target) => {
+                        target.textContent = releaseDate;
+                    });
                 });
         }
     </script>
