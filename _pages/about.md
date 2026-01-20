@@ -38,7 +38,7 @@ What controls whether cells - or clusters of cells - break off from an invading 
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 2.2em;">
   <img src="images/controlling2025wang.png" style="width:180px; margin-right:20px;">
   <div>
     <p style="margin-top:0px; margin-bottom:10px">
@@ -51,15 +51,18 @@ What controls whether cells - or clusters of cells - break off from an invading 
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 2.2em;">
   <img src="images/voronoi2026wang.png" style="width:180px; margin-right:20px;">
   <div>
-    <p style="margin-top:2px; margin-bottom:10px">
+    <p style="margin-top:-2px; margin-bottom:10px">
     <b style="font-size:17px;">Divergence of detachment forces in the finite-Voronoi model</b>
     </p>
     <span style="font-size:17px;">
     <b>W. Wang</b> and B. A. Camley<sup>✉</sup><br>
-    <a href="/404">Manuscript in preparation (2026)</a>
+    <a href="/404">Manuscript in preparation (2026)</a><br>
+    <span style="font-size:14px; color:gray;">
+    🎉 The associated code is now wrapped up as a Python package, <a href="https://pyafv.github.io"><b>PyAFV</b></a>!
+    </span>
     </span>
   </div>
 </div>
