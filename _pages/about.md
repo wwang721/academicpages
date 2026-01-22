@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About me"
+share_title: "Wei Wang @ JHU"
 author_profile: true
 redirect_from: 
   - /about/
