@@ -47,7 +47,7 @@ What controls whether cells - or clusters of cells - break off from an invading 
     </p>
     <span style="font-size:17px;">
     <b>W. Wang</b> and B. A. Camley<sup>✉</sup><br>
-    <a href="https://doi.org/10.48550/arXiv.2503.03126">arXiv:2503.03126 [physics.bio-ph] (2025)</a>
+    <a href="https://doi.org/10.1103/dk15-hwzg">Phys. Rev. E <b>113</b>, 034405 (2026)</a>
     </span>
   </div>
 </div>
