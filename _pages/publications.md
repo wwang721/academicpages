@@ -13,7 +13,7 @@ author_profile: true
 
 <span style="font-size:15px; color:gray; margin-left:5px; margin-bottom:10px"><sup>✉</sup> indicates corresponding authors.</span>
 
-- **W. Wang** and B. A. Camley<sup>✉</sup>, *Divergence of detachment forces in the finite-Voronoi model*, [manuscript in preparation (2026)](/404).
+- **W. Wang** and B. A. Camley<sup>✉</sup>, *Divergence of detachment forces in the finite Voronoi model*, [manuscript in preparation (2026)](/404).
 
 - **W. Wang** and B. A. Camley<sup>✉</sup>, *Controlling tissue size by active fracture*, [Phys. Rev. E **113**, 034405 (2026)](https://doi.org/10.1103/dk15-hwzg).
 
