@@ -60,7 +60,7 @@ What controls whether cells - or clusters of cells - break off from an invading 
     </p>
     <span style="font-size:17px;">
     <b>W. Wang</b> and B. A. Camley<sup>✉</sup><br>
-    <a href="/404">Manuscript in preparation (2026)</a><br>
+    <a href="https://doi.org/10.48550/arXiv.2604.15481">arXiv:2604.15481 [cond-mat.soft] (2026)</a><br>
     <span style="font-size:14px; color:gray;">
     🎉 The associated code is now wrapped up as a Python package, <a href="https://pyafv.github.io"><b>PyAFV</b></a>!
     </span>

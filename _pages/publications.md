@@ -13,7 +13,11 @@ author_profile: true
 
 <span style="font-size:15px; color:gray; margin-left:5px; margin-bottom:10px"><sup>✉</sup> indicates corresponding authors.</span>
 
+<!--
 - **W. Wang** and B. A. Camley<sup>✉</sup>, *Divergence of detachment forces in the finite Voronoi model*, [manuscript in preparation (2026)](/404).
+-->
+
+- **W. Wang** and B. A. Camley<sup>✉</sup>, *Divergence of detachment forces in the finite Voronoi model*, [arXiv:2604.15481 [cond-mat.soft] (2026)](https://doi.org/10.48550/arXiv.2604.15481).
 
 - V. Srinivasan[^1], **W. Wang**, and B. A. Camley<sup>✉</sup>, *Perfect adaptation in eukaryotic gradient sensing using cooperative allosteric binding*, [Phys. Rev. E **113**, 044414 (2026)](https://doi.org/10.1103/z9xd-xbw5). **[Editors' Suggestion]**
 
