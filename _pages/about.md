@@ -52,17 +52,20 @@ What controls whether cells - or clusters of cells - break off from an invading 
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 2.2em;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 0.2em;">
   <img src="images/voronoi2026wang.png" style="width:180px; margin-right:20px;">
   <div>
-    <p style="margin-top:-2px; margin-bottom:10px">
+    <p style="margin-top:-3px; margin-bottom:10px">
     <b style="font-size:17px;">Divergence of detachment forces in the finite Voronoi model</b>
     </p>
     <span style="font-size:17px;">
     <b>W. Wang</b> and B. A. Camley<sup>✉</sup><br>
     <a href="https://doi.org/10.48550/arXiv.2604.15481">arXiv:2604.15481 [cond-mat.soft] (2026)</a><br>
     <span style="font-size:14px; color:gray;">
-    🎉 The associated code is now wrapped up as a Python package, <a href="https://pyafv.github.io"><b>PyAFV</b></a>!
+    <p style="margin-top:5px;">
+    🎉 The associated code is wrapped up as a Python package, <a href="https://pyafv.github.io" target="_blank"><b>PyAFV</b></a>!
+    See an interactive <a href="https://dapengbi.com/paper_simulation_demos/afv_model/index.html" target="_blank">simulation demo</a> using our PyAFV on Prof. Dapeng (Max) Bi's homepage!
+    </p>
     </span>
     </span>
   </div>

@@ -19,13 +19,20 @@ author_profile: true
 
 - **W. Wang** and B. A. Camley<sup>✉</sup>, *Divergence of detachment forces in the finite Voronoi model*, [arXiv:2604.15481 [cond-mat.soft] (2026)](https://doi.org/10.48550/arXiv.2604.15481).
 
+<div style="font-size:14px; color:gray; margin-left:38px; margin-bottom:27px;">
+<p style="margin-top:-12px;">
+🎉 The associated code is wrapped up as a Python package, <a href="https://pyafv.github.io" target="_blank"><b>PyAFV</b></a>!
+See an interactive <a href="https://dapengbi.com/paper_simulation_demos/afv_model/index.html" target="_blank">simulation demo</a> using our PyAFV on Prof. Dapeng (Max) Bi's homepage!
+</p>
+</div>
+
 - V. Srinivasan[^1], **W. Wang**, and B. A. Camley<sup>✉</sup>, *Perfect adaptation in eukaryotic gradient sensing using cooperative allosteric binding*, [Phys. Rev. E **113**, 044414 (2026)](https://doi.org/10.1103/z9xd-xbw5). **[Editors' Suggestion]**
 
 - **W. Wang** and B. A. Camley<sup>✉</sup>, *Controlling tissue size by active fracture*, [Phys. Rev. E **113**, 034405 (2026)](https://doi.org/10.1103/dk15-hwzg).
 
 - **W. Wang**, R. A. Law, E. P. Ipiña, K. Konstantopoulos, and B. A. Camley<sup>✉</sup>, *Confinement, Jamming, and Adhesion in Cancer Cells Dissociating from a Collectively Invading Strand*, [<span style="white-space: nowrap;">PRX Life</span> **3**, 013012 (2025)](https://doi.org/10.1103/PRXLife.3.013012).
 
-- A. Kashyap, **W. Wang**, and B. A. Camley<sup>✉</sup>, *Trade-offs in concentration sensing in dynamic
+- A. Kashyap[^1], **W. Wang**, and B. A. Camley<sup>✉</sup>, *Trade-offs in concentration sensing in dynamic
 environments*, [Biophysical Journal **123**, 1184 (2024)](https://doi.org/10.1016/j.bpj.2024.03.025).
 
 - **W. Wang** and B. A. Camley<sup>✉</sup>, *Limits on the accuracy of contact inhibition of locomotion*, [Phys.
