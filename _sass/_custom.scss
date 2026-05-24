@@ -39,3 +39,9 @@ $my-gutter: 0.3rem;
         /* Chrome, Edge, Safari */
     }
 }
+
+
+/* Hide kramdown footnote back-reference arrows (↩) */
+a.reversefootnote {
+    display: none;
+}
